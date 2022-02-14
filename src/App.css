@@ -29,6 +29,12 @@
     color: #61dafb;
 }
 
+.App-column {
+    background-color: red;
+    width: 4px;
+    height: 2px;
+}
+
 @keyframes App-logo-spin {
     from {
         transform: rotate(0deg);
